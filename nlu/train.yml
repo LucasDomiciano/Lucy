@@ -1,4 +1,4 @@
-commans: 
+commands: 
   # Hora
   - command:
     input: Que horas são?
